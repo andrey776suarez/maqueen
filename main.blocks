@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="hXG7I@[=Pd+75s}kEO-}" x="2" y="2"><statement name="HANDLER"><block type="device_print_message" id="QLL~r*w!Q7W74vSTf6,@"><value name="text"><shadow type="text" id="Zc.4_;f*3oSb$bE(^UD{"><field name="TEXT">Rayo Maqueen cachau</field></shadow></value><next><block type="device_show_leds" id="ePithmk^9@)1K4p.ND_o"><field name="LEDS">`
+        # # # # # 
+        # . # . # 
+        # # # # # 
+        . # # # . 
+        . # # # .
+        `</field></block></next></block></statement></block><block type="device_button_event" id="g0#(+I~3h#-8@AGM!Uz:" x="240" y="208"><field name="NAME">Button.A</field></block><block type="device_forever" id="8}h3rOu]mb`)Ja=%IDmv" x="-1" y="363"/></xml>
